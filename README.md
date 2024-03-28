@@ -19,6 +19,12 @@ The HIIT Timer App is a simple application that allows users to set up and custo
     ```
     streamlit run timer.py
     ```
+**Screenshot of the Application:**
+
+![HIIT Timer Application Screenshot](/img/app.png)
+
+Above is a screenshot of the HIIT Timer application.
+
 4. In the app interface, specify the workout parameters:
     - Number of exercises
     - Rounds per exercise
